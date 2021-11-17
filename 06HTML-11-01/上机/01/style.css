@@ -1,0 +1,58 @@
+h1{
+    text-align:center;
+    font-size:60px;
+    font-family:隶书;
+    color:red;
+}
+h2{
+    text-align:center;
+    font-size:50px;
+    font-family:宋体;
+    color:blue;
+}
+h3{
+    text-align:center;
+    font-size:40px;
+    font-family:隶书;
+    color:forestgreen;
+}
+h4{
+    text-align:center;
+    font-size:30px;
+    font-family:楷体;
+    color:#FF6600;
+}
+h5{
+    text-align:center;
+    font-size:20px;
+    font-family:楷体;
+    color:#99FF00;
+}
+h6{
+    text-align:center;
+    font-size:10px;
+    font-family:宋体;
+    color:#0000cc;
+}
+#p1{
+    font-family:隶书;
+    color:red;
+}
+a{
+    text-decoration:none;
+    color:#FF00CC;
+    font-size:30px;
+}
+span{
+    font-size:28px;
+    font-family:华文彩云;
+    color:red;
+}
+b{
+    color:#33FF00;
+    font-family:隶书;
+    font-size:30px;
+}
+#p2{
+    text-align:right;
+}

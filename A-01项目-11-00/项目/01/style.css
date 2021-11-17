@@ -1,0 +1,43 @@
+﻿@charset "utf-8";
+html,header,body,div,a,{margin:0;padding:0;border:0;}
+
+/*a*/
+a{text-decoration:none;}
+a:hover{color:red;}
+span a:hover{color:forestgreen;}
+
+/*其它*/
+body{background:#00ff90;font-size:15px;}
+table{border-collapse:collapse;}
+ul{list-style-type:none;}
+li{text-align:left; font-size:20px;border-bottom: #C4C3C3 1px solid; line-height:40px; margin-bottom:2px;background:url(images/zuojian3.jpg) 190px no-repeat;position: relative;}
+
+/*顶部*/
+.dibu{width:980px;background-color:#ff00dc;margin:0px auto;position:absolute;top:0;left:193px;}
+
+/*top*/
+.top1{position:relative;height:25px;line-height:25px;background-color:#E6E6E6;}
+.top2{padding:40px 0;position:relative;}
+.topRight{position:absolute;top:1px;right:0px;color:#808080;}
+
+/*souSuo*/
+.souSuo {width:389px;height:34px;position:absolute;top:65px;left:290px;}
+.souSuo1{width:389px;height:65px;}
+.souSuo2{width: 320px;height: 32px;padding-left: 4px;}
+.souSuo3{position:absolute;}
+.souSuo4{position:absolute;top:40px;left:0px;}
+.souSuo5{width:220px;height:60px;background-color:brown;position:absolute;top:65px;right:65px;}
+.souSuo6{width:220px;height:30px;background-color:darkred;}
+.souSuo7{position:absolute;top:5px;right:198px;}
+.souSuo8{position:absolute;top:5px;right:30px;}
+.souSuo9{color:red;}
+div div span a:hover{color:red;}
+
+/*biaoGe*/
+.biaoGe{width:980px;height:350px;margin:0 auto;position:absolute;top:200px;}
+.biaoGe1{width:280px;background-color:yellow;}
+.biaoGe2{text-align:center;}
+.biaoGe3{padding:0px 30px;}
+.biaoGe7 div a:hover{background-color:aqua;position:absolute;top:10px;left:100px;} 
+
+

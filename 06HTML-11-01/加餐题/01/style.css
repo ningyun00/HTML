@@ -1,0 +1,30 @@
+.a1{
+    color:red;
+    font-size:20px;
+}
+.a2{
+    background-color:aqua;
+    text-align:right;
+}
+.a3{
+    color:red;
+
+}
+.a4{
+    background-color:transparent;
+    border:none;
+    position:fixed;
+    width:124px;
+    height:27px;
+    color:aliceblue;
+    font-size:20px;
+}
+.a5{
+    background-color:transparent;
+    border:none;
+    position:fixed;
+    width:394px;
+    height:27px;
+    color:aliceblue;
+    font-size:20px;
+}

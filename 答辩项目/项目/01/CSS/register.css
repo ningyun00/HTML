@@ -1,0 +1,101 @@
+﻿/*样式表*/
+html,head,body,div,a,p,input,form,img{margin:0px;padding:0px;}
+
+/*超链接*/
+a{text-decoration:none;}
+.a1{float:right;font-size:15px;}
+.span5 a{color:#99A3A5;}
+/*字体大小*/
+.span1{font-size:15px;color:#99A3A5}
+.span2{font-size:15px;color:#99A3A5}
+.span3{font-size:15px;color:#99A3A5;line-height:50px;}
+.span4{font-size:15px;color:#99A3A5;line-height:30px;}
+.span5{font-size:15px;color:#99A3A5;margin:0 auto;position:relative;top:40px;left:70px;}
+.span6{font-size:15px;color:#99A3A5;margin:0 auto;position:relative;top:60px;left:50px;}
+
+
+/*底部背景*/
+.bottomBackground{width:1350px;height:600px;margin:0 auto;}
+
+/*表头栏*/
+.formHeadColumn{width:1350px;height:79px;margin:0 auto;margin-top:30px;border-bottom:solid 1px #808080;}
+/*帮助登录*/
+.helpRegister{width:360px;height:79px;float:right;margin-right:100px;}
+/*帮助*/
+.help{width:110px;height:30px;display:inline-block;float:right;}
+/*“下拉框”大小*/
+.big{width:110px;height:30px;display:inline-block;position:absolute;}
+/*图片2*/
+.imagesP2{position:relative;top:6px;left:40px;}
+/*图片1*/
+.imagesP1{width:200px;height:65px;margin-left:100px;}
+
+/*界面栏*/
+.interfaceColumn{background-color:#fcfcfc;}
+/*登录背景*/
+.registerBackground{width:1150px;height:400px;margin:0px auto;}
+/*广告*/
+.advertise{width:510px;height:400px;float:left;position:absolute;}
+/*图片3*/
+.imagesP3{position:relative;top:42px;overflow:hidden;}
+/*用户登录*/
+.theCustomerRegisters{width:400px;height:400px;float:right;}
+
+/*状态1*/
+.theStatusIs1{width:400px;height:40px;line-height:60px;margin-top:42px;}
+
+/*状态2*/
+.theStatusIs2{width:400px;height:60px;line-height:60px;}
+/*用户名框大小*/
+.form1{width:400px;height:60px;}
+/*用户名框*/
+.usersNameFrame{width:300px;height:51px;border:1px solid black;margin:0 auto;position:relative;top:5px;left:0px;}
+/*用户名*/
+.usersName{width:250px;height:48px;font-size:10px;border:none;position:absolute;margin:0px 50px;}
+/*用户名字体提示位置*/
+.usersName::placeholder{text-align:center;}
+/*图片4*/
+.imagesP4{width:29px;height:30px;position:relative;top:4px;left:13px;}
+
+/*状态3*/
+.theStatusIs3{width:400px;height:60px;line-height:60px;}
+/*密码框大小*/
+.form2{width:400px;height:60px;}
+/*密码框*/
+.passwordFrame{width:300px;height:51px;border:1px solid black;margin:0 auto;position:relative;top:5px;left:0px;}
+/*密码*/
+.password{width:250px;height:48px;font-size:10px;border:none;position:absolute;margin:0px 50px;}
+.password::placeholder{text-align:center;}
+/*图片5*/
+.imagesP5{width:29px;height:30px;position:relative;top:4px;left:13px;}
+
+/*状态4*/
+.theStatusIs4{width:400px;height:50px;position:absolute;}
+/*自动登录框大小*/
+.form3{width:140px;height:50px;}
+/*自动登录框*/
+.automaticallyRegisterAFrame{width:90px;height:50px;position:relative;left:50px;}
+/*自动登录*/
+.automaticallyRegister{width:15px;height:15px;}
+/*忘记密码框*/
+.forgetAPasswordFrame{width:125px;height:50px;float:right;line-height:50px;}
+/*忘记密码*/
+.forgetAPassword{color:#99A3A5;}
+/*登录按钮框*/
+.registerToPressButtonAFrame{width:300px;height:50px;background-color:red;border-radius:5px;margin:0 auto;}
+/*按钮大小*/
+.form4{width:300px;height:50px;margin:0 auto;}
+/*登录按钮*/
+.registerButton{width:300px;height:50px;background-color:red;margin:0 auto;color:white;border:none;border-radius:5px;}
+/*更多*/
+.isMore{width:400px;height:30px;text-indent:50px;margin:0 auto;}
+/*更多图片*/
+.isMoreImages{width:400px;height:68px;margin:0 auto;}
+/*更多大小*/
+.form5{}
+/*网站一*/
+.inTheWebsite1{width:66px;height:68px;}
+/*更多网站*/
+.morWebsites{width:115px;height:35px;border:none;line-height:10px;position:relative;top:-30px;margin:0 auto;border:none;}
+/*版权*/
+.copyright{width:500px;height:120px;margin:0 auto;position:relative;}

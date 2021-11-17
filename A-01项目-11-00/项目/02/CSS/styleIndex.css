@@ -1,0 +1,168 @@
+﻿/*其它元素*/
+html,body,div{margin:0px;padding:0px;}
+a{text-decoration:none;}
+
+/*底部背景*/
+.bottomBackground{width:1350px;height:3270px/*;background-color:#ffaf1e*/;margin:0 auto;}
+
+/*表头*/
+.formHead{width:1350px;height:100px;/*background-color:red;*/margin:0 auto;}
+
+/*顶部*/
+.coping{width:1350px; height:40px;background-color:black;}
+
+/*搜索框*/ 
+.searchAFrame{width:209px;height:22px/*;background-color:blue*/;margin:0 auto;margin-right:435px;}
+
+/*搜索*/
+.search{width:176px;height:20px; border:0px;line-height:22px;margin-top:0px;float:left;}
+
+/*搜索提交*/
+.searchToHandIn{background:url(../Images/index_03_03.jpg) no-repeat;width:29px;height:22px;float:left;border:0px;position:relative;top:-21px;right:0px;}
+
+/*注册*/
+.registerZC{width:70px;height:22px;border-radius:4px;border:0px;background-color:red;color:white;position:absolute;top:0px;right:350px;text-align:center;}
+.registerDL{width:70px;height:22px;border-radius:4px;border:0px;background-color:white;color:black;position:absolute;top:0px;right:260px;text-align:center;}
+
+/*标题栏*/
+.headlineColumn{width:895px;height:100px;margin:-40px auto;}
+
+/*标题图片 一*/
+.headlinePictureOne{background-repeat:no-repeat;}
+
+/*标题图片二*/
+.headlinePictureTwo{background-repeat:no-repeat;position:relative;top:8px;}
+
+/*状态栏*/
+.statusColumn{width:1350px;height:40px;background-color:#A5A5A5;position:relative;top:45px;}
+
+/*ul栏*/
+.statusColumn ul{list-style-type:none;float:left;position:relative;left:240px;margin:9px auto;margin-right:435px;}
+
+/*li栏*/
+.statusColumn li{float:left;width:150px;height:31px; text-indent:6px;text-align:center;border-right:1px solid red;}
+.li0{border:1px; border-right:1px solid red;}
+.li0 .a1{width:10px;height:10px;/*background-color:forestgreen;*/color:white;}
+.li1 a:hover{/*background-color:green;*/color:white;}
+
+
+/*/*大背景*/
+.bigBackground{width:1350px;height:410px; background:url(../Images/index_02.jpg)no-repeat;position:relative;top:45px; }
+
+/*悬浮li*/
+.suspendLi{width:65px;height:15px;/*background-color:red;*/position:absolute;bottom:10px;right:585px;}
+.suspendLi ul{width:65px;height:15px;position:absolute;top:-33px;left:-3px;}
+.suspendLi li{float:left;text-indent:20px;font-size:35px;}
+.suspendLi a{color:white;}
+.suspendLi li:hover{color:blue;}
+
+/*活动栏*/
+.movableColumn{width:1000px;height:59px;background-color:#258E39;margin:60px auto; text-indent:10px;margin-left:200px;}
+
+/*中间图片*/
+.pictureInTheCenter{position:relative;left:300px;}
+
+/*中心图片副图*/
+.picturePairDiagramInCenterA{width:170px;height:50px;position:relative;top:-62px;left:57px;}
+.picturePairDiagramInCenterA .pictureA1{position:relative;top:-13px;left:0px; color:white;font-size:20px;}
+.picturePairDiagramInCenterTwo{width:170px;height:50px;position:relative;top:-111px;left:450px;}
+.picturePairDiagramInCenterThree{width:170px;height:50px;position:relative;top:-162px;left:750px;}
+
+/*图片一*/
+.pictureA{width:66px;height:50px;}
+
+/*图片二*/
+.pictureTwo{position:absolute;top:12px;left:65px;color:white;font-size:20px;}
+
+/*图片三*/
+.pictureThree{position:absolute;top:12px;left:65px;color:white;font-size:20px;}
+
+/*活动*/
+.activity{width:1000px;height:800px;/*background-color:lightcoral;*/position:relative;top:-45px;left:200px;}
+
+/*栏目*/
+.columnEyes{width:1000px;height:50px;/*background-color:cornflowerblue;*/}
+.columnEyes i{color:#258139;font-size:22px;padding:0px 0px;}
+.columnEyes .date{font-size:15px;color:#A5A5A5;position:relative;top:-15px;left:25px;}
+.columnEyes p span{position:relative;top:0px;left:25px;color:#A5A5A5;}
+.columnEyes .more{width:50px;height:20px; position:relative;top:5px;left:760px;color:white;background-color:#A5A5A5;border-radius:5px;text-align:center;}
+.columnEyes .horizontalLine{width:1000px;height:5px;background-image:url(../Images/index-line_03.jpg);background-repeat:repeat-x;margin-top:-10px;}
+.horizontalLine ul{position:absolute;top:35px;left:-55px;}
+.movableItem li{width:308px;height:350px; float:left;list-style-type:none;margin:14px;border:1px #fff solid;}
+.movableItem p{position:relative;left:25px;}
+.itemContents a{position:relative;top:-15px; right:-20px;color:red;font-size:25px;}
+
+/*已关闭*/
+.close{width:308px;height:350px;background:rgba(0,0,0,0.6);position:absolute;top:15px;left:55px;}
+.off{width: 80px;height: 30px;background: rgba(80,80,80,0.8);position: absolute;top: 160px;left: 290px;color: #fff;border-radius: 20px 0px 0px 20px;display: inline;font-size: 15px;text-align: center;line-height: 30px;z-index:10;}
+.on {width: 80px;height: 30px;background: rgba(37,142,57,0.8);position: absolute;top: 160px;left:630px;color: #fff;border-radius: 20px 0px 0px 20px;display: inline;font-size: 15px;text-align: center;line-height: 30px;z-index:10;}
+.on1{width: 80px;height: 30px;background: rgba(37,142,57,0.8);position: absolute;top: 160px;left:965px;color: #fff;border-radius: 20px 0px 0px 20px;display: inline;font-size: 15px;text-align: center;line-height: 30px;z-index:10;}
+.on2{width: 80px;height: 30px;background: rgba(37,142,57,0.8);position: absolute;top: 540px;left:290px;color: #fff;border-radius: 20px 0px 0px 20px;display: inline;font-size: 15px;text-align: center;line-height: 30px;z-index:10;}
+.on3{width: 80px;height: 30px;background: rgba(37,142,57,0.8);position: absolute;top: 540px;left:630px;color: #fff;border-radius: 20px 0px 0px 20px;display: inline;font-size: 15px;text-align: center;line-height: 30px;z-index:10;}
+.on4{width: 80px;height: 30px;background: rgba(37,142,57,0.8);position: absolute;top: 540px;left:965px;color: #fff;border-radius: 20px 0px 0px 20px;display: inline;font-size: 15px;text-align: center;line-height: 30px;z-index:10;}
+
+/*亲子旅游*/
+.theParentsAndChildrenTravels{width:1000px;height:420px;/*background-color:red;*/margin:0 auto;margin-right:150px;}
+
+/*副表*/
+.pairForm{width:1000px;height:365px;/*background-color:yellow;*/margin:-5px auto;}
+
+/*副表背景*/
+.pairFormBackground{width:650px;height:365px;/*background-color:paleturquoise;*/border-right:1px solid #A5A5A5;}
+
+/*副表表头*/
+.pairFormFormHead{width:650px;height:50px;/*background-color:saddlebrown;*/}
+.pairFormFormHead ul{width:425px;height:50px;padding-left:230px;}
+.pairFormFormHead li{list-style-type:none; text-indent:0px; float:left;margin:15px;padding:5px;margin-right:0px;margin-top:10px;color:wheat;}
+.pairFormFormHead ul .all{color:white;background:rgba(37,142,57,0.8);}
+.pairFormFormHead ul .travel:hover{color:white;background:rgba(37,142,57,0.8);}
+
+/*旅游项目*/
+.travelItem ul{width:655px;height:300px;list-style-type:none;margin-left:-43px;}
+.travelItem ul li img{border:solid 1px #A5A5A5;} 
+.travelItem li{float:left;margin:0px;padding:5px;}
+
+/*人气榜*/
+.popularPlacard{width:300px;float:right;margin-top:-365px;padding-right:20px;}
+.popularPlacard h3{border-top:dashed 2px #A5A5A5;}
+
+/*票务*/
+.tickets{width:1000px;height:800px;/*background-color:yellow;*/margin:-0px auto;margin-right:150px;}
+.tickets ul{list-style-type:none;}
+.ticketsContents{width:325px;height:100px;margin-top:-5px; border:solid 1px #A5A5A5;}
+.ticketsContents span{position:relative;left:170px;top:-15px;}
+.ticketsContents a{position:relative;top:-15px; color:red;}
+
+/*门票*/
+.admissionTicketContents {width:250px;height:30px;background-color:forestgreen;position:relative;left:40px;top:-10px;text-align:center;}
+.admissionTicket ul{width:1000px; height:735px;margin:0px -40px;}
+.admissionTicket li{float:left;margin:3px;}
+
+/*活动展示*/
+.teActivityDisplays{width:1000px;height:450px;/*background-color:yellow;*/margin:-0px auto;margin-right:150px;}
+
+/*展示*/
+.display ul{list-style-type:none;width:1000px;height:400px;margin:10px -40px;}
+.display li{width:240px;height:190px;float:left;padding:5px;}
+
+/*活动等*/
+.activityEtc{width:100px;height:100px;background: rgba(0,0,0,0.5); position:relative;bottom:25px;left:60px; color:white;}
+
+/*版权*/
+.copyright{width:100%;height:300px;margin:0 auto;background-color:#3E3E3E;color:white;}
+
+/*活动解释*/
+.theActivityExplains{width:320px;height:50px;position:relative;top:25px;left:190px;font-size:22px;line-height:45px;text-align:center;color:white;}
+.theActivityExplains .more{position:relative;left:200px;}
+.theActivityExplains p:nth-child(2){width:710px;height:210px;position:relative;left:0px;}
+.theActivityExplains img{position:absolute;top:25px;left:830px;}
+.theActivityExplains p:nth-last-child(1){position:relative;left:755px;top:-100px;}
+
+/*结束*/
+.end{width:100%;height:150px;background-color:#2C2C2C;margin-top:250px;}
+.end p{position:relative;left:-235px;top:100px;}
+
+/*跳转栏*/
+.jumpToTurnAColumn li{list-style-type:none;float:left;text-indent:20px;border-right:solid 1px #3e3e3e;padding:0px 10px;position:relative;left:300px;top:40px;}
+.jumpToTurnAColumn ul li:nth-child(6){border-right:none;}
+.jumpToTurnAColumn li a{color:black;}
