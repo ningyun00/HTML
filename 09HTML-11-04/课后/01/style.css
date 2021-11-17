@@ -1,0 +1,30 @@
+.tup{
+    background-image:url(images/bg.gif);
+    background-repeat:no-repeat;
+    background-position:2px 36px;
+}
+ul{
+    list-style-type:none;
+}
+.menu-li{
+    float:left;
+    width:68px;
+    text-indent:-47px;
+    margin-top:-23px;
+    margin:
+}
+.menu-class{
+    clear:both;
+    color:red;
+}
+#a04{
+    margin:45px 10px 10px 8px;
+    font-size:18px;
+}
+#a3{
+    margin:45px 10px 10px 8px;
+    font-size:18px;
+}
+#a05{
+    margin-top:-35px;
+}

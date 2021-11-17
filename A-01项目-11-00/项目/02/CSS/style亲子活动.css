@@ -1,0 +1,63 @@
+﻿/*除去无效样式*/
+html,body,div,a,p,form,input,form,ul,li{margin:0;padding:0;text-decoration:none;border:0;background:transparent;}
+
+/*底部背景*/
+.bottomBackground{height:2400px;background-color:aqua;margin:0 auto;}
+
+/*表头背景*/
+.formHeadBackground{width:100%;height:150px;background-color:white;margin:0 auto;}
+
+/*菜单栏*/
+.menuColumn{width:100%;height:50px;background-color:chartreuse;margin:0 auto;}
+
+/*内容*/
+.contents{width:1200px;height:2000px;background-color:chocolate;margin:0 auto;}
+
+/*页面栏*/
+.pageColumn{width:1200px;height:100px;background-color:coral;margin:0 auto;}
+
+/*版权栏*/
+.copyrightColumn{width:100%;height:100px;background-color:cornflowerblue;margin:0 auto;}
+
+/*表头*/
+.formHead{width:100%;height:50px;background-color:black;margin:0 auto;}
+/*搜索栏*/
+
+.searchColumn{width:1200px;height:50px;background-color:black;margin:0 auto;}
+
+/*注册*/
+.registerZC{width:65px;height:25px;background-color:red;color:white;float:right;margin:12px 10px;text-align:center;border-radius:5px;}
+
+/*登录*/
+.registerDL{width:65px;height:25px;background-color:white;color:black;float:right;margin:12px 10px;text-align:center;border-radius:5px;}
+
+/*搜索提交*/
+.searchToHandIn{width:215px;height:25px;background-color:white;margin:12px auto;text-align:right;line-height:28px;float:right;}
+
+/*搜索*/
+.search{width:180px;height:25px;background:linear-gradient(to left,#f890c7,#ffffff);float:left;}
+
+/*提交*/
+.handIn{width:35px;height:25px;float:left;}
+
+/*主题*/
+.topic{width:1200px;height:100px;background-color:aqua;margin:0 auto;}
+
+/*图片一*/
+.pictureLeft{width:700px;height:100px;}
+
+/*图片二*/
+.pictureright{width:300px;height:100px;float:right;}
+
+/*包含*/
+.include{width:1200px;height:50px;margin:0 auto;}
+.include ul{list-style-type:none;}
+.include li{width:197px;height:48px;float:left;line-height:50px;padding:1px;text-align:center;border-right:solid 1px #808080;font-size:20px;}
+.include ul li a{color:black;}
+.include ul li a:nth-child(1):hover{background-color:forestgreen;padding:12px 30px;color:white;}
+.include ul li:nth-child(2){background-color:forestgreen;color:white;}
+.include remarks{background-color:forestgreen;color:white;}
+
+
+
+

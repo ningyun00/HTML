@@ -1,0 +1,94 @@
+/*样式*/
+html,body,a,p,div,form,ul,li,span,a,img,table,tr,td{margin:0;padding:0;}
+/*标签*/
+a{text-decoration:none;color:red;}
+
+/*底部背景*/
+.bottonBackground{width:1300px;height:4000px;margin:0 auto;background-color:navajowhite;}
+
+/*表头栏*/
+.formHeadColumn{width:1300px;height:50px;background-color:#808080;}
+
+/*左侧*/
+.leftSide{width:100px;height:50px;line-height:50px;margin-left:50px;float:left;}
+
+/*右侧*/
+.rightSide{width:700px;height:50px;line-height:50px;float:right;}
+
+/*字样式2*/
+.span2{float:left;}
+
+/*搜索栏*/
+.searchAColumn{width:1300px;height:600px;margin-top:50px;}
+
+/*商标框*/
+.trademarkFrame{width:1300px;height:100px;}
+
+/*商标*/
+.trademark{width:200px;height:100px;margin-left:50px;float:left;}
+
+/*搜索框*/
+.searchAFrame{width:500px;height:100px;margin:0 auto;}
+
+/*搜索*/
+.search{width:500px;height:100px;position:absolute;}
+
+/*提交1*/
+.form1{width:500px;height:50px;}
+
+/*文本1*/
+.input1{width:345px;height:48px;border:red solid 1px;font-size:20px;float:left;position:relative;}
+
+/*按钮1*/
+.button1{width:149px;height:52px;background-color:red;color:white;float:left;font-size:20px;position:absolute;}
+
+/*热搜*/
+.theHeatSearch{width:500px;height:50px;}
+
+/*字样式4*/
+.span4{width:500px;height:50px;line-height:50px;position:absolute;left:0px;}
+
+/*字样式5*/
+.span5{line-height:50px;}
+
+/*购物车*/
+.shoppingCar{float:right;margin-right:50px;}
+
+/*商品广告*/
+.theMerchandiseAdvertise{width:148px;height:48px;margin-right:50px;border:solid 1px #808080;line-height:50px;text-indent:15px;float:right;background-color:#f6f6f6}
+
+/*商品分类栏*/
+.merchandiseClassificationColumn{width:1300px;height:50px;}
+
+/*状态栏*/
+.statusColumn{width:1300px;height:49px;border-bottom:solid 1px red;margin:0 auto;}
+
+/*左栏*/
+.leftColumn{width:250px;height:49px;line-height:50px;text-align:center;float:left;background-color:red;color:white;}
+
+/*中栏*/
+.mediumColumn{width:600px;height:49px;line-height:50px;margin-left:50px;float:left;}
+.mediumColumn ul{list-style-type:none;}
+.mediumColumn ul li{width:75px;height:49px;float:left;text-align:center;}
+
+/*右栏*/
+.rightColumn{width:150px;height:50px;line-height:50px;float:right;}
+
+/*字1*/
+.word1{width:1300px;height:500px;background-color:olivedrab;margin-top:50px;}
+.word2{width:1300px;height:50px;background-color:lightcoral;float:left;line-height:50px;}
+.span8{color:red;}
+.word3{width:1300px;height:450px;background-color:cornflowerblue;float:left;}
+.word4{width:450px;height:450px;background-color:palegreen;float:left;}
+.img1{width:448px;height:448px;border:solid 1px #808080;}
+.word5{width:500px;height:450px;background-color:saddlebrown;float:left;}
+.word6{width:500px;height:100px;background-color:red;}
+.span9{font-weight:bolder;font-size:20px;line-height:30px;}
+.span10{font-size:10px;}
+.word7{width:150px;height:100px;background-color:salmon;}
+.span11{color:red;line-height:50px;}
+.span12{font-size:13px;}
+.word8{width:250px;height:100px;background-color:teal;}
+.span13{line-height:50px;}
+.span14{border:solid 1px red;margin-left:15px;line-height:50px;}
+    

@@ -1,0 +1,42 @@
+﻿/*样式布置*/
+html,body,div,a,p,span,input,form{margin:0;padding:0;}
+
+/*P标签字体样式*/
+
+
+/*span标签字体样式*/
+.span1{color:red;font-size:38px;}
+.span2{color:#7A7A7A;font-size:38px;}
+.span3{color:red;font-size:38px;}
+.span4{color:white;font-size:38px;}
+
+
+/*底部背景*/
+.bottomBackground{width:1200px;height:6000px;background-color:red;margin:0 auto;}
+
+/*表头背景*/
+.formHeadBackground{width:1200px;height:400px;background-color:black;margin:0 auto;position:absolute;}
+
+/*搜索框*/
+.searchAFrame{width:1000px;height:50px;background-color:white;margin:0 auto;position:relative;top:30px;}
+
+/*提交搜索*/
+.search:hover .searchFormOfWritten{visibility:hidden;}
+
+/*搜索*/
+.search{width:400px;height:48px;position:absolute;margin:0px auto;border:none;font-size:35px;background-color:transparent;}
+
+
+/*搜索上字体*/
+.searchFormOfWritten{width:400px;height:50px;position:relative;top:0px;left:0px;pointer-events:none;}
+
+/*按钮*/
+.contact{width:100px;height:50px;float:right;background-color:transparent;border:none;}/*联络*/
+.news{width:100px;height:50px;float:right;background-color:transparent;border:none;}/*新闻*/
+.gallery{width:100px;height:50px;float:right;background-color:transparent;border:none;}/*回廊*/
+.agents{width:100px;height:50px;float:right;background-color:transparent;border:none;}/*代理人*/
+.listing{width:100px;height:50px;float:right;background-color:transparent;border:none;}/*项目表*/
+.home{width:100px;height:50px;float:right;background-color:transparent;border:none; }/*主页*/
+
+/*大标题*/
+.bigHeadline{width:1000px;height:200px;background-color:saddlebrown;margin:0 auto;margin-top:30px;text-align:center;line-height:180px;}

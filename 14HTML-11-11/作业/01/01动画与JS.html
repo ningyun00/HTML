@@ -1,0 +1,114 @@
+﻿<!DOCTYPE html>
+<html>
+     <head>
+         <meta charset="utf-8" />
+         <title>动画与JS</title>
+         <style type="text/css">
+              body{margin:0;padding:0;}
+              .theFormOfWrittenChanges{width:1000px;height:100px;color:aqua;font-size:40px;animation:ningyun 5s infinite;}
+              @keyframes ningyun{
+                   0%{color:red}
+                   25%{color:darksalmon}
+                   50%{color:orangered;}
+                   75%{color:seashell;}
+                   100%{color:yellow;}
+              }
+              .animation{width:100px;height:100px;background:linear-gradient(to left,red,#ff00dc);animation:ning 5s infinite;border-radius:100px;}
+              @keyframes ning{
+                   0%{margin-left:0px;}
+                   25%{margin-left:500px;}
+                   50%{margin-top:200px;}
+              }
+              .thePictureChooses{width:1200px;height:500px;text-align:center;background-color:rebeccapurple;;margin:0 auto;}
+         </style>
+         <script type="text/javascript">
+              function yunning(j) {
+                   var divs = document.getElementsByName("picture2")
+                   for (var i = 0; i < divs.length; i++) {
+                        if (i == j) {
+                             divs[i].style.display = "block";
+                        } else {
+                             divs[i].style.display = "none";
+                        }
+                   }
+              }
+         </script>
+     </head>
+     <body>
+          <div class="theFormOfWrittenChanges">
+               <!-- 字体变化 -->
+               字体颜色变化动画
+          </div>
+          <div class="animation">
+               <!-- 动画 -->
+          </div>
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <div class="thePictureChooses">
+               <div name="picture2"> <img src="images/1.jpg" width="300"height="300" alt="加载错误" /></div>
+               <div name="picture2"style="display:none"> <img src="images/2.jpg" width="300"height="300" alt="加载错误" /></div>
+               <div name="picture2"style="display:none"> <img src="images/3.jpg" width="300"height="300" alt="加载错误" /></div>
+               <div name="picture2"style="display:none"> <img src="images/4.jpg" width="300"height="300" alt="加载错误" /></div>
+               <div name="picture2"style="display:none"><img src="images/5.jpg" width="300"height="300" alt="加载错误" /></div>
+               <div name="picture2"style="display:none"><img src="images/6.jpg" width="300"height="300" alt="加载错误" /></div>
+               <div name="picture1">
+                    <img src="images/1.jpg" width="120" height="100" alt="加载错误" onclick="yunning(0)"/>
+                    <img src="images/2.jpg" width="120" height="100" alt="加载错误" onclick="yunning(1)"/>
+                    <img src="images/3.jpg" width="120" height="100" alt="加载错误" onclick="yunning(2)"/>
+                    <img src="images/4.jpg" width="120" height="100" alt="加载错误" onclick="yunning(3)"/>
+                    <img src="images/5.jpg" width="120" height="100" alt="加载错误" onclick="yunning(4)"/>
+                    <img src="images/6.jpg" width="120" height="100" alt="加载错误" onclick="yunning(5)"/>
+               </div>
+          </div>
+     </body>
+     <body>
+          <a href="../../../../作业目录.html">&hearts;</a>
+          <p hidden="hidden">&copy;寜2021年11月11日</p>
+     </body>
+</html>

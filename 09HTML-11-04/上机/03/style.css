@@ -1,0 +1,46 @@
+.bgtp{
+    background-repeat:no-repeat;
+    background-image:url(images/naviBg.JPG);
+    background-size:1300px 140px;
+    background-position:0px;
+    width:1300px;
+    height:140px;
+}
+.a02{
+   background-repeat:no-repeat;
+   background-image:url(images/buy.gif);
+   background-position:10px;
+   background-size:58px 22px;
+}
+.a03{
+   background-repeat:no-repeat;
+   background-image:url(images/sell.gif);
+   background-position:10px;
+   background-size:58px 22px;
+}
+.a04{
+   background-repeat:no-repeat;
+   background-image:url(images/mypp.gif);
+   background-position:2px;
+   background-size:83px 22px;
+}
+.a05{
+   background-repeat:no-repeat;
+   background-image:url(images/bbs.gif);
+   background-position:17px;
+   background-size:45px 22px;
+}
+.a06{
+   background-repeat:no-repeat;
+   background-image:url(images/help.gif);
+   background-position:17px;
+   background-size:15x 16px;
+}
+a{
+    color:red;
+    text-decoration:none;
+}
+.a07{
+    text-align:center;
+    color:blue;
+}
